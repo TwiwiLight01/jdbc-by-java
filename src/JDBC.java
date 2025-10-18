@@ -10,7 +10,7 @@ public class JDBC {
 
                     "jdbc:mysql://127.0.0.1:3306/login_schema",
                     "root",
-                    "password"
+                    "Wizwiz01#"
             );
 
 
@@ -29,7 +29,5 @@ public class JDBC {
 
             e.printStackTrace();
         }
-
     }
-
 }
